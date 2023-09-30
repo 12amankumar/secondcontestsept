@@ -1,0 +1,21 @@
+.image{
+  height:250px ;
+}
+.image::hover{
+  background: #ff7b29;
+ 
+}
+.button{
+  outline: none;
+  border: none;
+  border-radius: 9px;
+  background: blue;
+  color: white;
+  font-size: 15px;
+  padding: 5px 10px;
+  width: 100%;
+}
+.allitem{
+  text-align: center;
+  margin: 15px 0px;
+}
